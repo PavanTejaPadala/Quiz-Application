@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/a2d1403c-794d-44de-89c9-8afd2d4efdc3/resourceGroups/learn-a59bed10-4ffb-4da4-bf34-b3b15bf9d61b/providers/Microsoft.Web/sites/QuizAppCybage",
+    "appService.deploySubpath": "build"
+}
